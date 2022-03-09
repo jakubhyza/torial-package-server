@@ -38,6 +38,8 @@ Simply upload this project on a web server with installed PHP and set properties
 | 1.5       | Deprecated but in use |
 | 2         | Actual version        |
 
+Don't forget to add your repository to your Torial config.
+
 ## Add packages
 
 Upload packages/modules into `/files/` folder (Without zip, just put them here as a folder) and then just run cron.php to regenerate index.
