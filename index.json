@@ -1,0 +1,10 @@
+{
+	"repository_name": "A Torial Repository",
+	"repository_path": "https://localhost/",
+	"repository_operator": "Your Name",
+	"repository_contact": "me@example.com",
+
+
+	"server_software": "Torial Package Manager - Repository",
+	"server_version": 2
+}
