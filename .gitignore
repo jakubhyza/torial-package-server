@@ -1,3 +1,6 @@
-/files/*
+/filnes/*
+!/files/.gitkeep
 /indices/*
+!/indices/.gitkeep
 /tmp/*
+!/tmp/.gitkeep
