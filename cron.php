@@ -92,7 +92,8 @@
 		{
 			if (file_exists($module.'/'.$rm))
 			{
-				$readme = $repositoryUri.'files/'.basename($module).'/'.$rm;
+				//$readme = $repositoryUri.'files/'.basename($module).'/'.$rm;
+				$readme = $repositoryUri.'view-readme.php?id='.basename($module);
 				break;
 			}
 		}
